@@ -307,3 +307,4 @@ describe("Hard (what's going on)", function() {
         expect(decode(expr)).to.equal(result);
     });
 })
+
